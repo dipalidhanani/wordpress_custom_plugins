@@ -1,0 +1,6 @@
+
+Step 1:  Upload "calculator-shortcode.zip" from backend in Plugins -> Add New -> "Browse" zip file -> Upload
+
+Step 2: "Activate" Plugin from backend.
+
+Step 3: Admin can add [my-calculator] shortcode from backend by "Insert Calculator" link in visual editor.

@@ -1,0 +1,78 @@
+.transparantbg{
+    background-color: transparent;
+}
+.demoHeaders {
+  margin-top: 2em;
+}
+#dialog-link {
+  padding: .4em 1em .4em 20px;
+  text-decoration: none;
+  position: relative;
+}
+#dialog-link span.ui-icon {
+  margin: 0 5px 0 0;
+  position: absolute;
+  left: .2em;
+  top: 50%;
+  margin-top: -8px;
+}
+#icons {
+  margin: 0;
+  padding: 0;
+}
+#icons li {
+  margin: 2px;
+  position: relative;
+  padding: 4px 0;
+  cursor: pointer;
+  float: left;
+  list-style: none;
+}
+#icons span.ui-icon {
+  float: left;
+  margin: 0 4px;
+}
+.fakewindowcontain .ui-widget-overlay {
+  position: absolute;
+}
+#notaccordion .ui-accordion-content input {  
+    color: #777;  
+}
+#notaccordion .ui-accordion-content div {  
+    color: #000;  
+}
+#notaccordion .ui-accordion-content h4 {  
+    color: #000;  
+}
+#notaccordion .ui-accordion-content b {  
+    color: #000;  
+}
+
+#notaccordion .ui-accordion-content select {  
+    color: #777;  
+}  
+#notaccordion .ui-accordion-content option {  
+    color: #777;  
+}  
+select {
+  width: 200px;
+}
+#main-wrap{z-index:2!important;}
+#main-wrap .banner {
+    height: 370px!important;
+	background:none!important;
+}
+.flb > input { width: 75px !important; }
+.ui-accordion-content.ui-helper-reset.ui-widget-content.ui-corner-bottom > input {
+    width: auto !important;
+}
+#content-container input, #content-container textarea{font-size: 1em!important; }
+.obttbutnc input, .obttbutnck input { border:none!important; color: #ffffff!important;}
+#content-container input[type="radio"] {
+    border: medium none;
+    box-shadow: none;
+}
+#content-container input[type="checkbox"] {
+border: none;
+box-shadow: none;
+}

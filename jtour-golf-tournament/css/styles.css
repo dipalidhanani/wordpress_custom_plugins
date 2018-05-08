@@ -1,0 +1,33 @@
+#mc-component {
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #ededed;
+    padding: 15px;
+    width: auto;
+	float: left;
+}
+#cpanel div.icon {
+    float: left;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    text-align: center;
+}
+#cpanel div.icon a {
+    border: 1px solid #fff;
+    color: #666;
+    display: block;
+    float: left;
+    height: 97px;
+    text-decoration: none;
+    vertical-align: middle;
+    width: 108px;
+}
+#cpanel span {
+    display: block;
+    font-size: 11px;
+    text-align: center;
+}
+.wrap .par_course{ border-bottom: 2px solid #999;
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
